@@ -28,5 +28,5 @@ StockWisely is a web application that forecasts stock prices using deep learning
 ---
 
 ## 🔗 Links
-- **Live Demo:** *Coming soon or hosted URL*
+- **Live Demo:** (https://stockwisely.netlify.app/)
 - **LinkedIn:** [Shashanth V](https://www.linkedin.com/in/shashanth-v-55b227334/)
