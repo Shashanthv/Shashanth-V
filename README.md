@@ -2,7 +2,7 @@
 Stock price prediction app using MERN stack + Python LSTM | By @shashanthv
 # 🔮 StockWisely
 
-**Built by [Shashanth V](https://stockwisely.netlify.app)**  
+**Built by [Shashanth V] (https://stockwisely.netlify.app)**  
 A full-stack stock market prediction app using the MERN stack and a Python-based LSTM model.
 
 ## 📈 Description
